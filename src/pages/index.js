@@ -1,5 +1,4 @@
 import Head from "next/head";
-import { Typography } from "@mui/material";
 
 export default function Home() {
   return (
@@ -11,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Typography variant="h1">DevALMO, YouTube channel</Typography>
+        <h1>DevALMO, YouTube channel</h1>
       </main>
 
       <footer></footer>
